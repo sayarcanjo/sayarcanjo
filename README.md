@@ -1,4 +1,11 @@
-## HI, I'M SAYONARA ARCANJO
+
+<h1 align="center">HI, I'M SAYONARA ARCANJO</h1>
+
+<div align="center">
+  <img height="220" src="https://github.com/user-attachments/assets/32bb093a-35c1-4049-848a-d23a42e6b37a"  />
+</div>
+
+###
 
 <h2 align="left">About me</h2>
 
