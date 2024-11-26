@@ -1,6 +1,5 @@
 ## Olá, eu sou Sayonara Arcanjo
 
-
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl" />
