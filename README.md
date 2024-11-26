@@ -1,5 +1,5 @@
 
-<h1 align="center">HI, I'M SAYONARA ARCANJO</h1>
+<h1 align="center">Hi, I'm Sayonara Arcanjo</h1>
 
 <div align="center">
   <img height="220" src="https://github.com/user-attachments/assets/602668e7-d775-4f1d-a106-a5bd7b2d67e0"  />
