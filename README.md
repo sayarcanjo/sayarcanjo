@@ -2,7 +2,7 @@
 <h1 align="center">HI, I'M SAYONARA ARCANJO</h1>
 
 <div align="center">
-  <img height="220" src="https://github.com/user-attachments/assets/32bb093a-35c1-4049-848a-d23a42e6b37a"  />
+  <img height="220" src="https://github.com/user-attachments/assets/602668e7-d775-4f1d-a106-a5bd7b2d67e0"  />
 </div>
 
 ###
