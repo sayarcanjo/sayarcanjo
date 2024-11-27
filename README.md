@@ -71,3 +71,17 @@
 </div>
 
 ###
+
+###
+
+<h2 align="left">Projects</h2>
+
+###
+
+<h3 align="left">Eco Race</h3>
+
+###
+
+<p align="left">Eco Race is a digital game in the "serious games" category, which is part of a project called "Eco Causa" developed by students at the Federal University of Cariri. The game is an endless race game and aims to teach players about the correct disposal of electronic waste in a fun way. To access the game: https://ecoracedownload.netlify.app/</p>
+
+###
